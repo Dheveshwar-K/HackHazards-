@@ -309,19 +309,12 @@ Ocean Database   Fisheries DB   Biodiversity DB   Knowledge Graph
 | Name         | Role                      |
 | ------------ | ------------------------- |
 | Dheveshwar K | AI & Full Stack Developer |
-| Dhanya T K   | Backend & Database        |
-| Manova G     | Machine Learning          |
-| Akshaya V A  | Frontend & UI/UX          |
 
 ---
 
-# 📄 License
+## 📄 License
 
-This project is currently under development.
-
-License: **To Be Decided (TBD)**.
-
----
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 <div align="center">
 
